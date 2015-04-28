@@ -13,9 +13,15 @@
 #### Some pre-questions
 
 1. Where do params come from?
+they come from the URL
+they come from form fields
+they come from queries
 1. Where do params "go"?
+
 1. What is the general format of params?
+hashes
 1. How do you find out exactly which params are coming into your app?
+you can puts out params.
 
 #### Simple params
 
